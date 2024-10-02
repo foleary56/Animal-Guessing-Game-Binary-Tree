@@ -1,0 +1,81 @@
+-does it live in a forest?
+L-deer
+R-Dog
+R-Does it live in Antarctica?
+RL-Polar Bear
+RR-Dog
+RL-Is it small?
+RLL-Penguin
+RLR-Polar Bear
+L-does it have claws?
+LL-bear
+LR-deer
+RR-Is it tall?
+RRL-giraffe
+RRR-Dog
+LR-does it climb?
+LRL-monkey
+LRR-deer
+LL-is it fast?
+LLL-Cheetah
+LLR-bear
+RRL-is it fat?
+RRLL-hippo
+RRLR-giraffe
+RRR-is it quick?
+RRRL-Ostrich
+RRRR-Dog
+RRLL-Does it have a horn?
+RRLLL-rhino
+RRLLR-hippo
+LRR-does it hop?
+LRRL-rabbit
+LRRR-deer
+RRRR-does it have stripes?
+RRRRL-zebra
+RRRRR-Dog
+LLL-does it fly?
+LLLL-Hawk
+LLLR-Cheetah
+RRRRR-does it swim?
+RRRRRL-fish
+RRRRRR-Dog
+LLR-is it very very slow?
+LLRL-sloth
+LLRR-bear
+RRRL-Does it have horns?
+RRRLL-Mountain Goat
+RRRLR-Ostrich
+RLR-Can they speak English?
+RLRL-Human
+RLRR-Polar Bear
+LLLR-Are they natively found in the United States?
+LLLRL-fox
+LLLRR-Cheetah
+RRRLR-Does it dig holes?
+RRRLRL-Ground Hog
+RRRLRR-Ostrich
+RRLR-Does it hop or jump to get around?
+RRLRL-Kangaroo
+RRLRR-giraffe
+RRRRRR-Does it often live in a cage its whole life?
+RRRRRRL-Guinnea Pig
+RRRRRRR-Dog
+LLLL-Does it scavenge for food?
+LLLLL-Crow
+LLLLR-Hawk
+RRRRRRR-Does it live in the Dessert?
+RRRRRRRL-Gecko
+RRRRRRRR-Dog
+RRRLRR-Is it primarily a house pet?
+RRRLRRL-Cat
+RRRLRRR-Ostrich
+RRRRRRRL-Does it have a horn?
+RRRRRRRLL-Rhino
+RRRRRRRLR-Gecko
+LRL-Do they smell bad?
+LRLL-Stink Bug
+LRLR-monkey
+RRRLRRR-Does it live in the swamp?
+RRRLRRRL-Alligator
+RRRLRRRR-Ostrich
